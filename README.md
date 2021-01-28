@@ -5,3 +5,7 @@
 2. No hauria d'haver esborrat lo des codis, eh estat coio, ara mirare si ho puc recuperar
 
 3. He trobat es video, ara copiare es codis a un altre archiu
+
+4. Ara hem fet lo senzill, hem fet el commit "Inici", a partir d'ara anirem fent més coses
+
+## Noves coses
