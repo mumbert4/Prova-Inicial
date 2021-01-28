@@ -9,3 +9,5 @@
 4. Ara hem fet lo senzill, hem fet el commit "Inici", a partir d'ara anirem fent més coses
 
 ## Noves coses
+
+5. Ara esteim a la rama branca, fare un parell de modificions i les pujare per veure es canvis
